@@ -56,3 +56,10 @@ FLASK_APP=bedrock_a_party
 
 That's all! :)
 ---
+
+### Run tests
+
+use pytest:
+
+> pytest bedrock_a_party/tests/test_party.py
+
